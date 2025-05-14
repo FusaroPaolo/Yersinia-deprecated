@@ -1,5 +1,3 @@
-# Yersinia-deprecated
-Investigación sobre alternativas a Yersinia
 ## Yersinia: Estado deprecado y problemas de la GUI
 
 Yersinia es una herramienta histórica para ejecutar ataques de nivel de enlace (STP, CDP, DTP, DHCP, etc.) en redes LAN. Sin embargo, en su última versión oficial (0.8.2, de 2017) presenta varios problemas:
